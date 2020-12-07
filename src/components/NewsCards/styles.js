@@ -1,7 +1,7 @@
 import { makeStyles } from '@material-ui/core/styles';
 
 const styles = makeStyles({
-    conatiner: {
+    container: {
         padding: '0 5%',
         width: '100%',
         margin: 0
