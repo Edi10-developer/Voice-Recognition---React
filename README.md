@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### [Live Site]()
+### [Live Site](https://voicenewsapp.netlify.app/)
 
 ![alt text]()
 
