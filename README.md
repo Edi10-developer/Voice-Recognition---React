@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# News Voice Assistant
 
 ### [Live Site](https://voicenewsapp.netlify.app/)
 
