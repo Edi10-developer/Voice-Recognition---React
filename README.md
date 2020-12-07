@@ -2,7 +2,7 @@
 
 ### [Live Site](https://voicenewsapp.netlify.app/)
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/Edi10-developer/Portfolio-Bootstrap/master/img/projects/VoiceAppProject.webp)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
